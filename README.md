@@ -10,8 +10,7 @@ This script allows you to scrape a list of your Facebook friends.
 
 To set up the project, you'll need:
 
-- Python 3.x
-- pip (Python package installer)
+- Python 3
 - Google Chrome
 - Chrome Driver (for Selenium)
 
