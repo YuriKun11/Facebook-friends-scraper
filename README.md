@@ -16,7 +16,7 @@ To set up the project, you'll need:
 
 Once that's all set up:
 
-Clone this repository git clone https://github.com/YuriKun11/Facebook-friends-scraper
+Clone this repository `git clone https://github.com/YuriKun11/Facebook-friends-scraper`
 
 Install the requirements `pip install -r requirements.txt`
 
