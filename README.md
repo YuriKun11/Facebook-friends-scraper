@@ -20,6 +20,6 @@ Clone this repository git clone https://github.com/YuriKun11/Facebook-friends-sc
 
 Install the requirements `pip install -r requirements.txt`
 
-if that doesn't work try this: `py -3 -m install selenium` same for the other libraries
+if that doesn't work try this: `py -3 -m install selenium` same for other libraries
 
 run the script: `fb_scraper.py`
