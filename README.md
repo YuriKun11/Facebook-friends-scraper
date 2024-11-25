@@ -15,6 +15,12 @@ To set up the project, you'll need:
 - Google Chrome
 - Chrome Driver (for Selenium)
 
+Once that's all set up:
+
+Clone this repository git clone https://github.com/m-primo/facebook-friends.
+Go to the cloned directory cd facebook-friends.
+Install the requirements pip install -r requirements.txt.
+
 ### Steps:
 
 1. **Clone the repository:**
