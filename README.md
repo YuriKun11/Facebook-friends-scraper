@@ -19,4 +19,4 @@ To set up the project, you'll need:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/m-primo/facebook-friends
+   git clone [https://github.com/m-primo/facebook-friends](https://github.com/YuriKun11/Facebook-friends-scraper)
