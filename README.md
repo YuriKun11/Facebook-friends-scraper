@@ -2,7 +2,7 @@
 
 **Unfriend pa more, I ta track ko kayo!**
 
-This script allows you to scrape a list of your Facebook friends. You can easily track and manage your friends list with this tool.
+This script allows you to scrape a list of your Facebook friends.
 
 ---
 
